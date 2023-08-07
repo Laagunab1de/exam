@@ -50,6 +50,10 @@ namespace exam
                 main.Show();
                 this.Close();
             }
+            else
+            {
+                MessageBox.Show("cheta ne tak");
+            }
         }
     }
 }

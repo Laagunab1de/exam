@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
+        <Button Click="Button_Click">Add new</Button>
         <ListView  x:Name="nnnname" Height="450">
             <ListView.View>
                 <GridView>
